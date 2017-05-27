@@ -18,7 +18,7 @@
   <xs:element name="OS" type="xs:NCName"/>
   <xs:element name="PROXY" type="xs:string"/>
   <xs:element name="SAVE_TIMING_DIR" type="xs:string" />
-  <xs:element name="PROJECT" type="xs:NCName" />
+  <xs:element name="PROJECT" type="xs:string" />
   <xs:element name="COMPILERS" type="xs:string"/>
   <xs:element name="MPILIBS" type="xs:string"/>
   <xs:element name="CIME_OUTPUT_ROOT" type="xs:string"/>
